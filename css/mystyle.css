@@ -425,7 +425,7 @@ h3.my-profession{
     content: '';
     width: 2px;
     position: absolute;
-    height: 100%;
+    height: 160%;
     left: 7px;
     top: 0;
     background-color: var(--skin-color);
